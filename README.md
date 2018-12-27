@@ -13,4 +13,5 @@ An utility UI built in Kivy to download songs in mp3 format from YouTube URL
 
 ## Further improvements
 - Provide input for the destination path of audio file
+- Provide input for audio parameters like bitrate, etc.
 - Use py2app/py2exe to convert command line instruction to desktop application. You can then double click on the icon, just like any other application
