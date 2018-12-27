@@ -5,6 +5,7 @@ An utility UI built in Kivy to download songs in mp3 format from YouTube URL
 ## Requirements
 - Install Kivy framework (https://kivy.org/#home)
 - Install pytube python package
+- Install ffmpeg library
 - Install py2app(OSX)/py2exe(Windows) to convert command line to Desktop Application (Optional)
 
 ## Usage
